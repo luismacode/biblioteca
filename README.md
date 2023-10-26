@@ -10,7 +10,9 @@ Colaboradores del proyecto.
   Marc Almirall.                                                                                                                                                  
   Surikatho.                                                                                                                                                      
   Carlos Hernandez.                                                                                                                                               
-  Alberto Gomez                                                                                                                                                                                                   
+  Alberto Gomez                                                                                                                                                                                                  
+                                                                                                                                                                                                      
+                                                                                                                                                                                                             
                                                                                                                                                                                                                 
 E-mail de los Colaboradores.                                                                                                                                     
 desarrollo.espinacas1966@gmail.com                                                                                                                                
@@ -21,6 +23,8 @@ jeanmarya@hotmail.it
 marc2almi@gmail.com                                                                                                                                               
 cicutareflexivoiflexibo@gmail.com                                                                                                                                 
 carlos.hernandez.agudelo@correounivalle.edu.co                                                                                                                    
-albertog1997@gmail.com                                                                                                                                                                                             
-                                                                                                                                                                                                               
+albertog1997@gmail.com                                                                                                                                                                                           
+
+                                                                                                                                                                                                                
+                                                                                                                                                                                                                 
 Fecha inicio del proyecto   --> 30/10/2023                                                                                                                                                                 
