@@ -8,7 +8,7 @@ Colaboradores del proyecto.
   Luis Machaca.                                                                                                                                                    
   Jean Carlo.                                                                                                                                                     
   Marc Almirall.                                                                                                                                                  
-  Surikatho.                                                                                                                                                      
+  (BAJA) - Surikatho.                                                                                                                                                      
   Carlos Hernandez.                                                                                                                                               
   Alberto Gomez                                                                                                                                                                                                  
                                                                                                                                                                                                       
@@ -21,7 +21,7 @@ justinlopez588@gmail.com
 luismachaca@outlook.com.pe                                                                                                                                        
 jeanmarya@hotmail.it                                                                                                                                               
 marc2almi@gmail.com                                                                                                                                               
-cicutareflexivoiflexibo@gmail.com                                                                                                                                 
+(BAJA) - cicutareflexivoiflexibo@gmail.com                                                                                                                                 
 carlos.hernandez.agudelo@correounivalle.edu.co                                                                                                                    
 albertog1997@gmail.com                                                                                                                                                                                           
 
